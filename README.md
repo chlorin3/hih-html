@@ -1,7 +1,7 @@
 # hih-html
-HTML + CSS project (uni assignment)
-
-## Requirements:
+HTML + CSS project (uni assignment)<br>
+# Topic: my passion 
+## Requirements (got 20/20 points):
 * the content of the page is consistent with the topic of the project
 * website validation (2 points)
 * page layout:
